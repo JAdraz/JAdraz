@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JAdraz
-- 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning SQL 
+- 👀 I’m interested in Data Analytics and Business Intelligence
+- 🌱 I’m currently learning about programming
 - 💞️ I’m looking to collaborate on data analysis projects
 - 📫 How to reach me via email jesus.adraz@eazychart.dev
 
