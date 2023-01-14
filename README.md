@@ -17,7 +17,7 @@ I love analyzing data and creating amazing dashboards for make better business d
 
 * 🌱 I'm doing a bootcamp for learning and practicing Python, SQL, Machine Learning and other amazing tools. 
 
-* 📫 Do you want to contact me? Click here [![Linkedin Badge](https://img.shields.io/badge/-Jesus Adraz-blue?style=flat&logo=Linkedin&logoColor=white)]  (https://www.linkedin.com/in/jesus-adraz/)
+* 📫 Do you want to contact me? Click here [![Linkedin Badge](https://img.shields.io/badge/-Jesus-blue?style=flat&logo=Linkedin&logoColor=white)]  (https://www.linkedin.com/in/jesus-adraz/)
  
 ---
   
