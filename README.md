@@ -17,7 +17,7 @@ I love analyzing data and creating amazing dashboards for make better business d
 
 * 🌱 I'm doing a bootcamp for learning and practicing Python, SQL, Machine Learning and other amazing tools. 
 
-* 📫 Do you want to contact me? Click here [![Linkedin Badge](https://img.shields.io/badge/-Jesús Adraz-blue?style=flat&logo=Linkedin&logoColor=white)]  (https://www.linkedin.com/in/jesus-adraz/)
+* 📫 Do you want to contact me? Click here [![Linkedin Badge](https://img.shields.io/badge/-Jesus Adraz-blue?style=flat&logo=Linkedin&logoColor=white)]  (https://www.linkedin.com/in/jesus-adraz/)
  
 ---
   
@@ -37,7 +37,7 @@ I love analyzing data and creating amazing dashboards for make better business d
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JAdraz&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JAdraz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JAdraz&layout=compact&theme=vision-friendly-dark)](https://github.com/JAdraz/github-readme-stats)
 
 <!---
 JAdraz/JAdraz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
