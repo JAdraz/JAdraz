@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @JAdraz
-- 👀 I’m interested in Data Analytics and Business Intelligence
-- 🌱 I’m currently learning about programming
-- 💞️ I’m looking to collaborate on data analysis projects
-- 📫 How to reach me via email jesus.adraz@eazychart.dev
+<h1>
+  Hola soy Jesús. ¡Encantado de conocerte! 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
+---
+<div id="header" align="left">
+
+### :man_technologist: Sobre mí:
 
 <!---
 JAdraz/JAdraz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
