@@ -7,8 +7,6 @@
 
 </div>
 
----
-
 <div id="header" align="left">
 
 ### :man_technologist: About me:
