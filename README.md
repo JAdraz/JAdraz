@@ -1,5 +1,6 @@
-<h1 align="center">Hi there 👋, I'm Jesús Adraz</h1>
-<h3 align="center">A psychologist passionate for Data Analysis and Business Intelligence</h3>
+<h1 align="center">Hi there 👋, I'm Jesús Adraz!</h1>
+
+![myimagen](/img/cover.png)
 
 - 🔭 I’m currently working on **my career transition from Odoo Project Manager to a Data Analyst**
 
@@ -13,13 +14,22 @@
 
 - 📫 How to reach me **jesus.adraz@eazychart.dev**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jesus-adraz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jesus-adraz" height="30" width="40" /></a>
-</p>
+<h2 align="left">Languages and Tools:</h2>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a> <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> <a> <img src="https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white"/> </a> <a> <img src="https://img.shields.io/badge/Asana-273347.svg?style=for-the-badge&logo=Asana&logoColor=white"/> </a>
+
+<p align="left"> <a> <img src="https://img.shields.io/badge/Microsoft%20Excel-217346.svg?style=for-the-badge&logo=Microsoft-Excel&logoColor=white"/> </a> <a>
+
+<p align="left"> <a> <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" alt="excel"/> </a> <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"alt="excel"/> </a> </p>
+
+<p align="left"> <a> <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"/> </a> <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white"/> </a> <a> <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white"/> </a> 
+
+<p align="left"> <a> <img src="https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=FastAPI&logoColor=white"/> </a>
+
+<h2 align="left">Find me on:</h2>
+<p align="left">
+<a href="https://linkedin.com/in/jesus-adraz" target="blank"><img align="center" src="hhttps://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
+</p>
 
 <!---
 JAdraz/JAdraz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
