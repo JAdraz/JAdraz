@@ -2,7 +2,9 @@
 
 ![myimagen](/res/cover.png)
 
+I am a Junior Data Engineer passionate about analyzing data, creating dashboards and Data Driven cultures.
 
+I graduated from Psychology and transitioned to data analytics field in 2020 during COVID-19 pandemic. It was the best decision I have ever made because I found my real passion in this area and I am pursuing my dream to help companies 
 
 <h2 align="left">Languages and Tools:</h2>
 
