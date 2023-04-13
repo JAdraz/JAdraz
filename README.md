@@ -1,18 +1,8 @@
-<h1 align="center">Hi there 👋, I'm Jesús Adraz!</h1>
+<h1 align="center">Hi 👋 I'm Jesús Adraz!</h1>
 
-![myimagen](/img/cover.png)
+![myimagen](/res/cover.png)
 
-- 🔭 I’m currently working on **my career transition from Odoo Project Manager to a Data Analyst**
 
-- 🌱 I’m currently learning **about data analytics, machine learning and databases in a bootcamp!**
-
-- 👯 I’m looking to collaborate on **data analytics projects**
-
-- 👨‍💻 All of my projects and articles 📝 are available at [jesusadraz.com](jesusadraz.com)
-
-- 💬 Ask me about **data analysis, business intelligence, Google Data Studio and Odoo ERP**
-
-- 📫 How to reach me **jesus.adraz@eazychart.dev**
 
 <h2 align="left">Languages and Tools:</h2>
 
@@ -24,12 +14,17 @@
 
 <p align="left"> <a> <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"/> </a> <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white"/> </a> <a> <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white"/> </a> 
 
-<p align="left"> <a> <img src="https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=FastAPI&logoColor=white"/> </a>
-
 <h2 align="left">Find me on:</h2>
-<p align="left">
-<a href="https://linkedin.com/in/jesus-adraz" target="blank"><img align="center" src="hhttps://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
-</p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jesus_Adraz-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/jesus-adraz)
+
+### You can support my work clicking "☆ Star" on this repo or nominate to "GitHub Star". Thank you!
+
+[![GitHub Star](https://img.shields.io/badge/GitHub-Nominate_to_star-yellow?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://stars.github.com/nominate/)
+
+## Contact:
+
+[![Email](https://img.shields.io/badge/jesus.adraz@eazychart.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:jesus.adraz@eazychart.dev)
 
 <!---
 JAdraz/JAdraz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
