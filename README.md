@@ -2,7 +2,7 @@
 
 ![myimagen](/res/cover.png)
 
-I am a Junior Data Engineer passionate about analyzing data, creating dashboards and data driven cultures.
+I am a Junior Data Analyst passionate about analyzing data, creating dashboards and data driven cultures.
 
 I graduated from psychology and transitioned to tech field in 2020 during COVID-19 pandemic. I started implemeting Odoo ERP to several companies as a Project Manager and then I decided to become a full time Data Analyst. It was the best decision I have ever made because I found my real passion in this area and I am pursuing my dream to help companies make better decisions through data.
 
